@@ -24,7 +24,7 @@ class Terkey:
 
   # animasi
   def animasi(self):
-      for i in "-\|/-\|/-|/-|/-\|/-|":
+      for i in "-\|/-\|/-|/-|/-\|/-|\|-\|-":
               print(f'\r{d}Starting {c}[{e}{i}{c}] ',end="",flush=True)
               sleep(0.1)
 
