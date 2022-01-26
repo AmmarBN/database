@@ -56,7 +56,7 @@ Kebalikannya Jika Data Botz Terhapus Maka Script Ini Tidak Dapat
 Menemukan Web Data Botz Yang Disimpan/Hilang [!]""")
 print ("<---------[\033[1;0m\033[1;41mMenu Botz Script\033[1;0m]--------->")
 print ("\033[1;\033[1;90m1. \033[1;92mLord Botz")
-print ("\033[1;\033[1;90m2. \033[1;92mAlpha Botz")
+print ("\033[1;\033[1;90m2. \033[1;92mLord Botz-v2")
 print
 #Buat Input
 pilihgan = input("\033[1;\033[1;90mInput Option : ")
