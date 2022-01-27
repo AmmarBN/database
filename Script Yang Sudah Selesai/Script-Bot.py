@@ -44,7 +44,7 @@ Untuk Menyalin Script Membutuhkan Koneksi Internet [!]
 \033[1;0m
 <---------[\033[1;0m\033[1;41mInfo Tools\033[1;0m]--------->
 \033[1;96m Status Tools \033[1;90m: \033[1;92m Online
-\033[1;96m Pengguna Tools \033[1;90m: \033[1;95m2 \033[1;90morang """)
+\033[1;96m Pengguna Tools \033[1;90m: \033[1;95m23 \033[1;90morang """)
 print
 print (banner)
 print ("\033[1;96m Waktu \033[1;90m: \033[1;92m"+localtime)
